@@ -19,6 +19,10 @@ body{
   font-weight: normal;
 }
 
+.greeting .emphasis:hover{
+  color: #3440eb;
+}
+
 .searchBox{
   margin-left: auto;
   margin-right: auto;
@@ -35,4 +39,8 @@ body{
   border-left: 0;
   border-right: 0;
   border-width: thick;
+}
+.searchBox input:hover, input:focus{
+  color: #3440eb;
+  border-color: #3440eb;
 }
