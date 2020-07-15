@@ -40,7 +40,3 @@ body{
   border-right: 0;
   border-width: thick;
 }
-.searchBox input:hover, input:focus{
-  color: #3440eb;
-  border-color: #3440eb;
-}
